@@ -1,0 +1,1 @@
+$\alpha_{max \gamma} = \arccos\sqrt\frac{n^2-1}{3}$
